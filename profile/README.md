@@ -19,4 +19,8 @@ Extensions are files on the iPod, turned on and off in Settings. An extension th
 | Core internals and the SDK | [Developer documentation](https://github.com/RevolaOS/revola/tree/main/docs) |
 | Principles, documentation and code rules | [STYLE.md](https://github.com/RevolaOS/.github/blob/main/STYLE.md) |
 
+## Development
+
+Large language models are used for much of the coding on RevolaOS. Their output is checked in the emulator, its memory use comes from the heap profile, and every release is tested on an iPod before it ships. Contributions written with the same tools are welcome and tested in the same way.
+
 RevolaOS is derived from [RepriseOS](https://github.com/lgreitis/osos-lab). See the NOTICE file in each repository.
