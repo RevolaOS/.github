@@ -8,6 +8,8 @@ Extensions are files on the iPod, turned on and off in Settings. An extension th
 |---|---|
 | [revola](https://github.com/RevolaOS/revola) | Core firmware, extension loader, SDK, documentation |
 | [extensions](https://github.com/RevolaOS/extensions) | First-party extensions |
+| [homebrew](https://github.com/RevolaOS/homebrew) | First-party games and apps |
+| [themes](https://github.com/RevolaOS/themes) | First-party themes and the theme compiler |
 | [reversing](https://github.com/RevolaOS/reversing) | Apple firmware documentation and symbols |
 | [installer](https://github.com/RevolaOS/installer) | Desktop installer and device tools |
 | [emulator](https://github.com/RevolaOS/emulator) | QEMU fork and `ipodvm` |
